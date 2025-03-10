@@ -1,18 +1,18 @@
-mar 10, 2025 10:12:36 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
+mar 10, 2025 10:20:26 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
 ALL: El servidor se ha iniciado en 8080
-mar 10, 2025 10:12:36 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
+mar 10, 2025 10:20:26 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
 INFO: El cliente ha enviado los datos: 7 * 5
-mar 10, 2025 10:12:36 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
+mar 10, 2025 10:20:26 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
 INFO: Enviado al cliente : 12
-mar 10, 2025 10:12:36 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
+mar 10, 2025 10:20:26 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
 INFO: El cliente ha enviado los datos: 7 + 5
-mar 10, 2025 10:12:36 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
+mar 10, 2025 10:20:26 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
 INFO: Enviado al cliente : 12
-mar 10, 2025 10:12:36 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
+mar 10, 2025 10:20:26 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
 INFO: El cliente ha enviado los datos: 7 / 5
-mar 10, 2025 10:12:36 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
+mar 10, 2025 10:20:26 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
 INFO: Enviado al cliente : 1
-mar 10, 2025 10:12:36 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
+mar 10, 2025 10:20:26 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
 INFO: El cliente ha enviado los datos: 7 - 5
-mar 10, 2025 10:12:36 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
+mar 10, 2025 10:20:26 A. M. es.madrid.parla.tierno.parla.LoggerAplicacion log
 INFO: Enviado al cliente : 2
